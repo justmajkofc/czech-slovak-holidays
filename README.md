@@ -1,9 +1,10 @@
 # 🎉 Czech-Slovak Holidays
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![API Status](https://img.shields.io/badge/API-Coming%20Soon-blue)](https://www.vilemhaupt.cz/api/holidays)
+[![API Status](https://img.shields.io/badge/API-Code%20Ready-blue)](https://github.com/justmajkofc/svatky-api)
+[![API Live Status](https://img.shields.io/badge/Live_Status-Coming_Soon-orange)](https://github.com/justmajkofc/svatky-api)
 
-> JSON dataset of Czech and Slovak holidays and name days with bilingual support. REST API coming soon.
+> JSON dataset of Czech and Slovak holidays and name days with bilingual support. REST API code available - live deployment coming soon.
 
 ## 📚 Table of Contents
 - [English](#-english)
@@ -44,13 +45,16 @@ Each month contains:
 The data is provided in JSON format and can be easily integrated into various applications, calendars, or other systems requiring holiday and name day information.
 
 ### 🔮 Future Plans
-- 🌐 REST API will be available at [www.vilemhaupt.cz/api/holidays](https://www.vilemhaupt.cz/api/holidays)
+- 🌐 REST API code is available at [github.com/justmajkofc/svatky-api](https://github.com/justmajkofc/svatky-api)
+  - � Current status: Code ready, awaiting deployment
+  - 🚀 Live version coming soon (domain setup in progress)
 - ✨ Additional features and endpoints will be added over time
 
 ### 📝 Update Log
 #### 2025
 - 🚀 Initial release of the dataset
-- ⏳ REST API development in progress
+- 💻 API code published on GitHub
+- 🔧 Continuous improvements and updates
 
 ### 👨‍💻 Author
 Created by [Vilém Haupt](https://github.com/justmajkofc)
@@ -93,16 +97,19 @@ Každý měsíc obsahuje:
 Data jsou poskytována ve formátu JSON a mohou být snadno integrována do různých aplikací, kalendářů nebo jiných systémů vyžadujících informace o svátcích a jmeninách.
 
 ### 🔮 Plány do budoucna
-- 🌐 REST API bude dostupné na [www.vilemhaupt.cz/api/holidays](https://www.vilemhaupt.cz/api/holidays)
+- 🌐 Kód REST API je dostupný na [github.com/justmajkofc/svatky-api](https://github.com/justmajkofc/svatky-api)
+  - 🚦 Aktuální stav: Kód připraven, čeká se na nasazení
+  - 🚀 Živá verze brzy (probíhá nastavení domény)
 - ✨ Postupně budou přidávány další funkce a endpointy
 
 ### 📝 Historie aktualizací
 #### 2025
 - 🚀 První vydání datasetu
-- ⏳ REST API ve vývoji
+- 💻 Kód API publikován na GitHubu
+- 🔧 Průběžné vylepšování a aktualizace
 
 ### 👨‍💻 Autor
 Vytvořil [Vilém Haupt](https://github.com/justmajkofc)
 
 ### 📄 Licence
-Tento dataset je dostupný pod licencí MIT. 
+Tento dataset je dostupný pod licencí MIT.
