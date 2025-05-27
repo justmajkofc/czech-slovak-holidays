@@ -53,7 +53,7 @@ The data is provided in JSON format and can be easily integrated into various ap
 - ⏳ REST API development in progress
 
 ### 👨‍💻 Author
-Created by [Vilém Haupt](https://www.vilemhaupt.cz)
+Created by [Vilém Haupt](https://github.com/justmajkofc)
 
 ### 📄 License
 This dataset is available under the MIT License.
@@ -102,7 +102,7 @@ Data jsou poskytována ve formátu JSON a mohou být snadno integrována do růz
 - ⏳ REST API ve vývoji
 
 ### 👨‍💻 Autor
-Vytvořil [Vilém Haupt](https://www.vilemhaupt.cz)
+Vytvořil [Vilém Haupt](https://github.com/justmajkofc)
 
 ### 📄 Licence
 Tento dataset je dostupný pod licencí MIT. 
