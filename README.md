@@ -48,7 +48,7 @@ The data is provided in JSON format and can be easily integrated into various ap
 - ✨ Additional features and endpoints will be added over time
 
 ### 📝 Update Log
-#### 2024
+#### 2025
 - 🚀 Initial release of the dataset
 - ⏳ REST API development in progress
 
@@ -97,7 +97,7 @@ Data jsou poskytována ve formátu JSON a mohou být snadno integrována do růz
 - ✨ Postupně budou přidávány další funkce a endpointy
 
 ### 📝 Historie aktualizací
-#### 2024
+#### 2025
 - 🚀 První vydání datasetu
 - ⏳ REST API ve vývoji
 
